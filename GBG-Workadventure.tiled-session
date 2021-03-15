@@ -1,27 +1,68 @@
 {
-    "activeFile": "",
+    "activeFile": "chemieraeume.json",
     "expandedProjectPaths": [
+        "."
     ],
     "file.lastUsedOpenFilter": "Alle Dateien (*)",
     "fileStates": {
+        "": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Chemieraeume.json": {
+            "scale": 0.3859375,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 230.60728744939274,
+                "y": 1088.2591093117408
+            }
+        },
+        "Chemieraeume.json#deviant_milkian_1": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Chemieraeume.json#dm": {
+            "dynamicWrapping": false
+        },
         "Chemieräume.tmx": {
             "scale": 0.3859375,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 290.20242914979764,
-                "y": 1088.2591093117408
+                "x": 288.9068825910931,
+                "y": 1084.3724696356276
             }
+        },
+        "chemieraeume.json": {
+            "scale": 0.75,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 282,
+                "y": 620
+            }
+        },
+        "chemieraeume.json#dm": {
+            "scaleInDock": 0.75
+        },
+        "chemieraeume.json#floortileset.png": {
+            "scaleInDock": 1
+        },
+        "floortileset.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
         },
         "garden.json": {
             "scale": 0.4821969696969697,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 497.7219167321288,
-                "y": 512.2388059701493
+                "x": 343.2207384131972,
+                "y": 514.3126472898665
             }
         },
         "garden.json#cija_32x32_expansion for Pipoya_CC0": {
-            "scaleInDock": 1
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "garden.json#hyptosis_til-art-batch-2": {
             "scaleInDock": 1
@@ -41,13 +82,26 @@
         },
         "garden.json#worldExit": {
             "scaleInDock": 1
+        },
+        "tilesets_deviant_milkian_1.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
         }
     },
     "map.lastUsedExportFilter": "JSON-Kartendateien (*.json)",
+    "map.lastUsedFormat": "json",
     "openFiles": [
+        "Chemieräume.tmx",
+        "garden.json",
+        "chemieraeume.json"
     ],
     "project": "GBG-Workadventure.tiled-project",
     "recentFiles": [
+        "Chemieräume.tmx",
+        "garden.json",
+        "chemieraeume.json"
     ],
-    "tileset.lastUsedFilter": "Alle Dateien (*)"
+    "tileset.embedInMap": true,
+    "tileset.lastUsedFilter": "Alle Dateien (*)",
+    "tileset.type": 0
 }
