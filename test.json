@@ -27,6 +27,12 @@
          "id":1,
          "name":"Kachelebene 1",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"collides",
+                 "type":"bool",
+                 "value":true
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":18,
@@ -39,9 +45,26 @@
          "id":3,
          "name":"Tische st\u00fchle etc",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"collides",
+                 "type":"bool",
+                 "value":true
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":18,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "draworder":"topdown",
+         "id":2,
+         "name":"floorLayer",
+         "objects":[],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
          "x":0,
          "y":0
         }, 
@@ -54,17 +77,6 @@
          "type":"tilelayer",
          "visible":true,
          "width":18,
-         "x":0,
-         "y":0
-        }, 
-        {
-         "draworder":"topdown",
-         "id":2,
-         "name":"Objektebene 1",
-         "objects":[],
-         "opacity":1,
-         "type":"objectgroup",
-         "visible":true,
          "x":0,
          "y":0
         }],
