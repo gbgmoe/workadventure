@@ -2238,7 +2238,7 @@
         {
          "columns":16,
          "firstgid":321,
-         "image":"..\/..\/..\/Downloads\/general.png",
+         "image":"assets\/gbg\/general.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -2251,7 +2251,7 @@
         {
          "columns":16,
          "firstgid":577,
-         "image":"..\/..\/..\/Downloads\/walls2.png",
+         "image":"assets\/gbg\/walls2.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
