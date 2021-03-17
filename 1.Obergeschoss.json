@@ -3,7 +3,7 @@
     {
      "export":
         {
-         "target":"."
+         "target":"..\/Desktop"
         }
     },
  "height":60,
@@ -592,15 +592,15 @@
  "tilesets":[
         {
          "firstgid":1,
-         "source":"workadventure-master\/floortileset.tsx"
+         "source":"..\/Desktop\/workadventure-master\/floortileset.tsx"
         }, 
         {
          "firstgid":65,
-         "source":"workadventure-master\/tilesets_deviant_milkian_1.tsx"
+         "source":"..\/Desktop\/workadventure-master\/tilesets_deviant_milkian_1.tsx"
         }, 
         {
          "firstgid":321,
-         "source":"workadventure-master\/walls2.tsx"
+         "source":"..\/Desktop\/workadventure-master\/walls2.tsx"
         }],
  "tilewidth":32,
  "type":"map",
