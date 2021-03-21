@@ -66,7 +66,7 @@
         {
          "columns":15,
          "firstgid":1,
-         "image":"workadventure-master\/assets\/gbg\/cija_32x32_expansion for Pipoya_CC0.png",
+         "image":"assets\/gbg\/cija_32x32_expansion for Pipoya_CC0.png",
          "imageheight":3936,
          "imagewidth":480,
          "margin":0,
@@ -79,7 +79,7 @@
         {
          "columns":16,
          "firstgid":1846,
-         "image":"workadventure-master\/assets\/gbg\/z-labor.png",
+         "image":"assets\/gbg\/z-labor.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -92,7 +92,7 @@
         {
          "columns":8,
          "firstgid":2102,
-         "image":"workadventure-master\/floortileset.png",
+         "image":"floortileset.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
@@ -115,7 +115,7 @@
         {
          "columns":1,
          "firstgid":2166,
-         "image":"workadventure-master\/assets\/tiles.rc3.world\/community\/cert\/imgs\/storage\/05_shelve2.png",
+         "image":"assets\/tiles.rc3.world\/community\/cert\/imgs\/storage\/05_shelve2.png",
          "imageheight":96,
          "imagewidth":32,
          "margin":0,
@@ -128,7 +128,7 @@
         {
          "columns":16,
          "firstgid":2169,
-         "image":"workadventure-master\/assets\/tiles.rc3.world\/community\/cert\/imgs\/tilesheets\/AceSet-Hospital.png",
+         "image":"assets\/tiles.rc3.world\/community\/cert\/imgs\/tilesheets\/AceSet-Hospital.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -2446,7 +2446,7 @@
         {
          "columns":2,
          "firstgid":2425,
-         "image":"workadventure-master\/assets\/tiles.rc3.world\/community\/cert\/imgs\/cert\/13_wagenvoll.png",
+         "image":"assets\/tiles.rc3.world\/community\/cert\/imgs\/cert\/13_wagenvoll.png",
          "imageheight":64,
          "imagewidth":64,
          "margin":0,
@@ -2884,7 +2884,7 @@
         {
          "columns":16,
          "firstgid":2941,
-         "image":"workadventure-master\/gbg assets\/general.png",
+         "image":"general.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
