@@ -64,20 +64,56 @@
  "tileheight":32,
  "tilesets":[
         {
+         "columns":8,
          "firstgid":1,
-         "source":"done\/tsx\/floortileset.tsx"
+         "image":"assets\/gbg\/floortileset.png",
+         "imageheight":256,
+         "imagewidth":256,
+         "margin":0,
+         "name":"floor",
+         "spacing":0,
+         "tilecount":64,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
+         "columns":16,
          "firstgid":65,
-         "source":"done\/tsx\/tilesets_deviant_milkian_1.tsx"
+         "image":"assets\/gbg\/tilesets_deviant_milkian_1.png",
+         "imageheight":512,
+         "imagewidth":512,
+         "margin":0,
+         "name":"dm",
+         "spacing":0,
+         "tilecount":256,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
+         "columns":16,
          "firstgid":321,
-         "source":"done\/tsx\/walls2.tsx"
+         "image":"assets\/gbg\/walls2.png",
+         "imageheight":512,
+         "imagewidth":512,
+         "margin":0,
+         "name":"walls2",
+         "spacing":0,
+         "tilecount":256,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
+         "columns":15,
          "firstgid":577,
-         "source":"done\/tsx\/cija_32x32_expansion for Pipoya_CC0.tsx"
+         "image":"assets\/gbg\/cija_32x32_expansion for Pipoya_CC0.png",
+         "imageheight":3936,
+         "imagewidth":480,
+         "margin":0,
+         "name":"cija",
+         "spacing":0,
+         "tilecount":1845,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
