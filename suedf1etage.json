@@ -28,7 +28,7 @@
          "name":"W\u00e4nde",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":200,
          "x":0,
          "y":0
@@ -40,7 +40,7 @@
          "objects":[],
          "opacity":1,
          "type":"objectgroup",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }, 
@@ -51,7 +51,7 @@
          "name":"Boden",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":200,
          "x":0,
          "y":0
@@ -63,7 +63,7 @@
          "name":"M\u00f6bel1",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":200,
          "x":0,
          "y":0
@@ -75,7 +75,7 @@
          "name":"M\u00f6bel2",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":200,
          "x":0,
          "y":0
@@ -87,7 +87,7 @@
          "name":"M\u00f6bel3",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":200,
          "x":0,
          "y":0
@@ -99,7 +99,7 @@
          "name":"Treppe",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":200,
          "x":0,
          "y":0
@@ -122,6 +122,34 @@
          "spacing":0,
          "tilecount":64,
          "tileheight":32,
+         "tiles":[
+                {
+                 "id":40,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":41,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":42,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }],
          "tilewidth":32
         }, 
         {
@@ -135,6 +163,34 @@
          "spacing":0,
          "tilecount":64,
          "tileheight":32,
+         "tiles":[
+                {
+                 "id":40,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":41,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":42,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }],
          "tilewidth":32
         }, 
         {
