@@ -201,14 +201,6 @@
          "tilecount":256,
          "tileheight":32,
          "tilewidth":32
-        }, 
-        {
-         "firstgid":1217,
-         "source":"..\/floortileset.tsx"
-        }, 
-        {
-         "firstgid":1217,
-         "source":"..\/tilesets_deviant_milkian_1.tsx"
         }],
  "tilewidth":32,
  "type":"map",
