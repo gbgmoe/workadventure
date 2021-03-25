@@ -15,6 +15,12 @@
          "id":10,
          "name":"start",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"startLayer",
+                 "type":"bool",
+                 "value":true
+                }],
          "type":"tilelayer",
          "visible":false,
          "width":80,
@@ -31,7 +37,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"Erdgeschoss#startNBEG"
+                 "value":"Erdgeschoss.json#startNBEG"
                 }],
          "type":"tilelayer",
          "visible":true,
