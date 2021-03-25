@@ -1,4 +1,11 @@
 { "compressionlevel":-1,
+ "editorsettings":
+    {
+     "export":
+        {
+         "target":"."
+        }
+    },
  "height":80,
  "infinite":false,
  "layers":[
@@ -8,6 +15,12 @@
          "id":5,
          "name":"start",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"startLayer",
+                 "type":"bool",
+                 "value":true
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":80,
@@ -29,7 +42,7 @@
         {
          "draworder":"topdown",
          "id":4,
-         "name":"Floorlayer",
+         "name":"floorLayer",
          "objects":[],
          "opacity":1,
          "type":"objectgroup",
@@ -119,7 +132,7 @@
          "tilecount":1845,
          "tileheight":32,
          "tilewidth":32
-       }],
+        }],
  "tilewidth":32,
  "type":"map",
  "version":1.4,
