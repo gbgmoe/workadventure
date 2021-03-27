@@ -5109,6 +5109,18 @@
                         {
                          "duration":1000,
                          "tileid":6
+                        }, 
+                        {
+                         "duration":200,
+                         "tileid":13
+                        }, 
+                        {
+                         "duration":200,
+                         "tileid":12
+                        }, 
+                        {
+                         "duration":200,
+                         "tileid":11
                         }],
                  "id":10
                 }],
