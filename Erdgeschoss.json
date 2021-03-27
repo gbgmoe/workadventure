@@ -1059,7 +1059,7 @@
                          "tileid":116
                         }, 
                         {
-                         "duration":3000,
+                         "duration":9200,
                          "tileid":3
                         }],
                  "id":64
@@ -1104,22 +1104,46 @@
                         }, 
                         {
                          "duration":100,
-                         "tileid":74
+                         "tileid":34
                         }, 
                         {
                          "duration":100,
-                         "tileid":90
+                         "tileid":50
                         }, 
                         {
                          "duration":100,
-                         "tileid":89
+                         "tileid":66
                         }, 
                         {
                          "duration":100,
-                         "tileid":57
+                         "tileid":82
                         }, 
                         {
-                         "duration":2000,
+                         "duration":100,
+                         "tileid":155
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":139
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":123
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":107
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":136
+                        }, 
+                        {
+                         "duration":100,
+                         "tileid":168
+                        }, 
+                        {
+                         "duration":7600,
                          "tileid":3
                         }],
                  "id":65
