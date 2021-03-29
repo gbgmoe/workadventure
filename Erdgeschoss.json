@@ -37,7 +37,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/grafmoehring.de\/tatue\/yahlu.html"
+                 "value":"https:\/\/grafmoehring.de\/tatue\/yah.php?lu"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -55,7 +55,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/grafmoehring.de\/tatue\/yahlo.html"
+                 "value":"https:\/\/grafmoehring.de\/tatue\/yah.php?lo"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -73,7 +73,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/grafmoehring.de\/tatue\/yahmlu.html"
+                 "value":"https:\/\/grafmoehring.de\/tatue\/yah.php?mlu"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -91,7 +91,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/grafmoehring.de\/tatue\/yahmru.html"
+                 "value":"https:\/\/grafmoehring.de\/tatue\/yah.php?mru"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -109,7 +109,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/grafmoehring.de\/tatue\/yahru.html"
+                 "value":"https:\/\/grafmoehring.de\/tatue\/yah.php?ru"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -127,7 +127,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/grafmoehring.de\/tatue\/yahmro.html"
+                 "value":"https:\/\/grafmoehring.de\/tatue\/yah.php?mro"
                 }],
          "type":"tilelayer",
          "visible":true,
