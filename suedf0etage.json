@@ -73,7 +73,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"suedf1etage.json#startT4"
+                 "value":"suedf1etage.json#startT4_U"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -91,7 +91,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"suedf1etage.json#startT3"
+                 "value":"suedf1etage.json#startT3_U"
                 }],
          "type":"tilelayer",
          "visible":true,
