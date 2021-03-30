@@ -16,7 +16,7 @@
          "name":"Rasen",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":111,
          "x":0,
          "y":0
@@ -34,7 +34,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":111,
          "x":0,
          "y":0
@@ -52,7 +52,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":111,
          "x":0,
          "y":0
@@ -70,7 +70,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":111,
          "x":0,
          "y":0
@@ -88,7 +88,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":111,
          "x":0,
          "y":0
@@ -124,7 +124,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":111,
          "x":0,
          "y":0
@@ -142,7 +142,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":111,
          "x":0,
          "y":0
@@ -160,7 +160,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":111,
          "x":0,
          "y":0
@@ -178,7 +178,7 @@
                  "value":"suedf0etage.json#startT5"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":111,
          "x":0,
          "y":0
@@ -196,7 +196,7 @@
                  "value":"suedf0etage.json#startT4"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":111,
          "x":0,
          "y":0
@@ -214,7 +214,7 @@
                  "value":"suedf2etage.json#startT4"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":111,
          "x":0,
          "y":0
@@ -232,7 +232,7 @@
                  "value":"suedf0etage.json#startT3"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":111,
          "x":0,
          "y":0
@@ -250,7 +250,7 @@
                  "value":"suedf2etage.json#startT3"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":111,
          "x":0,
          "y":0
@@ -268,7 +268,7 @@
                  "value":"suedf0etage.json#startT2"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":111,
          "x":0,
          "y":0
@@ -286,7 +286,7 @@
                  "value":"suedf2etage.json#startT2"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":111,
          "x":0,
          "y":0
@@ -304,7 +304,7 @@
                  "value":"suedf0etage.json#startT1"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":111,
          "x":0,
          "y":0
@@ -316,7 +316,7 @@
          "name":"W\u00e4nde",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":111,
          "x":0,
          "y":0
@@ -328,7 +328,7 @@
          "name":"Boden",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":111,
          "x":0,
          "y":0
@@ -340,7 +340,7 @@
          "name":"M\u00f6bel1",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":111,
          "x":0,
          "y":0
@@ -352,7 +352,7 @@
          "name":"M\u00f6bel2",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":111,
          "x":0,
          "y":0
@@ -364,7 +364,7 @@
          "name":"M\u00f6bel und Treppe",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":111,
          "x":0,
          "y":0
@@ -376,7 +376,7 @@
          "objects":[],
          "opacity":1,
          "type":"objectgroup",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }, 
@@ -387,7 +387,7 @@
          "name":"Treppengel\u00e4nder",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":111,
          "x":0,
          "y":0
