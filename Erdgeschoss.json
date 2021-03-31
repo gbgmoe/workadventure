@@ -323,7 +323,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exirUrl",
+                 "name":"exitUrl",
                  "type":"string",
                  "value":"draussen.json#startHG"
                 }],
