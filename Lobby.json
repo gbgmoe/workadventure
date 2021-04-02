@@ -1,4 +1,11 @@
 { "compressionlevel":-1,
+ "editorsettings":
+    {
+     "export":
+        {
+         "target":"."
+        }
+    },
  "height":20,
  "infinite":false,
  "layers":[
@@ -48,7 +55,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"wegweiser.html"
+                 "value":"https:\/\/grafmoehring.de\/tatue\/wegweiser.html"
                 }],
          "type":"tilelayer",
          "visible":true,
