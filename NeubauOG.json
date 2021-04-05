@@ -2547,6 +2547,19 @@
          "tilecount":1845,
          "tileheight":32,
          "tilewidth":32
+        }, 
+        {
+         "columns":24,
+         "firstgid":2422,
+         "image":"assets\/gbg\/Tafeln.png",
+         "imageheight":768,
+         "imagewidth":768,
+         "margin":0,
+         "name":"Tafeln",
+         "spacing":0,
+         "tilecount":576,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
