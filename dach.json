@@ -909,15 +909,6 @@
                         }]
                 }, 
                 {
-                 "id":562,
-                 "properties":[
-                        {
-                         "name":"collides",
-                         "type":"bool",
-                         "value":true
-                        }]
-                }, 
-                {
                  "id":630,
                  "properties":[
                         {
