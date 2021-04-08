@@ -1,0 +1,14 @@
+{ "columns":5,
+ "image":"Warnung.png",
+ "imageheight":160,
+ "imagewidth":160,
+ "margin":0,
+ "name":"Warnung",
+ "spacing":0,
+ "tilecount":25,
+ "tiledversion":"1.4.3",
+ "tileheight":32,
+ "tilewidth":32,
+ "type":"tileset",
+ "version":1.4
+}
