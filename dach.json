@@ -30,7 +30,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/grafmoehring.de\/tatue\/GBG%20Motto.jpg"
+                 "value":"https:\/\/grafmoehring.de\/tatue\/Reli\/GBG%20Motto.jpg"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -174,7 +174,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/grafmoehring.de\/tatue\/Reli\/bunt1.pdf"
+                 "value":"https:\/\/grafmoehring.de\/tatue\/Reli\/alina_8XAZRsJK.mov"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -192,7 +192,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"https.\/\/grafmoehring.de\/tatue\/Reli\/Tjark.mp3"
+                 "value":"https:\/\/grafmoehring.de\/tatue\/Reli\/Tjark.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
