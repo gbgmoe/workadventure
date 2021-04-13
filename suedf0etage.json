@@ -412,7 +412,7 @@
          "name":"M\u00f6bel",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":217,
          "x":0,
          "y":0
@@ -424,7 +424,7 @@
          "name":"M\u00f6bel2",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":217,
          "x":0,
          "y":0
@@ -436,7 +436,7 @@
          "name":"M\u00f6bel3",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":217,
          "x":0,
          "y":0
