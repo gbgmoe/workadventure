@@ -768,6 +768,32 @@
                         }]
                 }],
          "tilewidth":32
+        }, 
+        {
+         "columns":15,
+         "firstgid":577,
+         "image":"assets\/gbg\/cija_32x32_expansion for Pipoya_CC0.png",
+         "imageheight":3936,
+         "imagewidth":480,
+         "margin":0,
+         "name":"cija",
+         "spacing":0,
+         "tilecount":1845,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":24,
+         "firstgid":2422,
+         "image":"assets\/gbg\/Tafeln.png",
+         "imageheight":768,
+         "imagewidth":768,
+         "margin":0,
+         "name":"Tafeln",
+         "spacing":0,
+         "tilecount":576,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
