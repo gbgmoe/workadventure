@@ -1,4 +1,11 @@
 { "compressionlevel":-1,
+ "editorsettings":
+    {
+     "export":
+        {
+         "target":"."
+        }
+    },
  "height":109,
  "infinite":false,
  "layers":[
@@ -251,13 +258,13 @@
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.6.0",
+ "tiledversion":"1.4.3",
  "tileheight":32,
  "tilesets":[
         {
          "columns":16,
          "firstgid":1,
-         "image":"..\/..\/Videos\/clips\/Pictures\/Desktop\/workadventure-master\/assets\/gbg\/tilesets_deviant_milkian_1.png",
+         "image":"assets\/gbg\/tilesets_deviant_milkian_1.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -270,7 +277,7 @@
         {
          "columns":8,
          "firstgid":257,
-         "image":"..\/..\/Videos\/clips\/Pictures\/Desktop\/workadventure-master\/assets\/gbg\/floortileset.png",
+         "image":"assets\/gbg\/floortileset.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
@@ -283,7 +290,7 @@
         {
          "columns":16,
          "firstgid":321,
-         "image":"..\/..\/Videos\/clips\/Pictures\/Desktop\/workadventure-master\/assets\/gbg\/walls2.png",
+         "image":"assets\/gbg\/walls2.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -819,7 +826,7 @@
         {
          "columns":15,
          "firstgid":577,
-         "image":"..\/..\/Videos\/clips\/Pictures\/Desktop\/workadventure-master\/assets\/gbg\/cija_32x32_expansion for Pipoya_CC0.png",
+         "image":"assets\/gbg\/cija_32x32_expansion for Pipoya_CC0.png",
          "imageheight":3936,
          "imagewidth":480,
          "margin":0,
@@ -832,7 +839,7 @@
         {
          "columns":24,
          "firstgid":2422,
-         "image":"..\/..\/Videos\/clips\/Pictures\/Desktop\/workadventure-master\/assets\/gbg\/Tafeln.png",
+         "image":"assets\/gbg\/Tafeln.png",
          "imageheight":768,
          "imagewidth":768,
          "margin":0,
@@ -845,7 +852,7 @@
         {
          "columns":6,
          "firstgid":2998,
-         "image":"..\/..\/Videos\/clips\/Pictures\/Desktop\/workadventure-master\/assets\/gbg\/roterFaden.png",
+         "image":"assets\/gbg\/roterFaden.png",
          "imageheight":192,
          "imagewidth":192,
          "margin":0,
@@ -856,15 +863,33 @@
          "tilewidth":32
         }, 
         {
+         "columns":16,
          "firstgid":3034,
-         "source":"..\/..\/Videos\/clips\/Pictures\/Desktop\/walls2.tsx"
+         "image":"assets\/gbg\/walls2.png",
+         "imageheight":512,
+         "imagewidth":512,
+         "margin":0,
+         "name":"walls2L",
+         "spacing":0,
+         "tilecount":256,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
+         "columns":16,
          "firstgid":3290,
-         "source":"..\/..\/Videos\/clips\/Pictures\/Desktop\/workadventure-master\/tilesets_deviant_milkian_1.tsx"
+         "image":"assets\/gbg\/tilesets_deviant_milkian_1.png",
+         "imageheight":512,
+         "imagewidth":512,
+         "margin":0,
+         "name":"dmL",
+         "spacing":0,
+         "tilecount":256,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
- "version":"1.6",
+ "version":1.4,
  "width":229
 }
