@@ -1,0 +1,14 @@
+{ "columns":14,
+ "image":"chemie.png",
+ "imageheight":1440,
+ "imagewidth":448,
+ "margin":0,
+ "name":"chemie",
+ "spacing":0,
+ "tilecount":630,
+ "tiledversion":"1.4.3",
+ "tileheight":32,
+ "tilewidth":32,
+ "type":"tileset",
+ "version":1.4
+}
