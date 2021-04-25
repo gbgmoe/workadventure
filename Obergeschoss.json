@@ -15,7 +15,7 @@
                  "value":"https:\/\/www.youtube.com\/embed\/WcEGuBxLaZc"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":229,
          "x":0,
          "y":0
@@ -33,7 +33,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":229,
          "x":0,
          "y":0
@@ -51,7 +51,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":229,
          "x":0,
          "y":0
@@ -69,7 +69,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":229,
          "x":0,
          "y":0
@@ -87,7 +87,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":229,
          "x":0,
          "y":0
@@ -105,7 +105,7 @@
                  "value":"Erdgeschoss.json#startOrange"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":229,
          "x":0,
          "y":0
@@ -123,7 +123,7 @@
                  "value":"Erdgeschoss.json#startRot"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":229,
          "x":0,
          "y":0
@@ -141,7 +141,7 @@
                  "value":"Erdgeschoss.json#startGelb"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":229,
          "x":0,
          "y":0
@@ -159,7 +159,7 @@
                  "value":"Erdgeschoss.json#startBlau"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":229,
          "x":0,
          "y":0
@@ -171,7 +171,7 @@
          "name":"Boden",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":229,
          "x":0,
          "y":0
@@ -257,7 +257,7 @@
         {
          "columns":16,
          "firstgid":1,
-         "image":"workadventure-master\/assets\/gbg\/tilesets_deviant_milkian_1.png",
+         "image":"..\/..\/Videos\/clips\/Pictures\/Desktop\/workadventure-master\/assets\/gbg\/tilesets_deviant_milkian_1.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -270,7 +270,7 @@
         {
          "columns":8,
          "firstgid":257,
-         "image":"workadventure-master\/assets\/gbg\/floortileset.png",
+         "image":"..\/..\/Videos\/clips\/Pictures\/Desktop\/workadventure-master\/assets\/gbg\/floortileset.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
@@ -283,7 +283,7 @@
         {
          "columns":16,
          "firstgid":321,
-         "image":"workadventure-master\/assets\/gbg\/walls2.png",
+         "image":"..\/..\/Videos\/clips\/Pictures\/Desktop\/workadventure-master\/assets\/gbg\/walls2.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -819,7 +819,7 @@
         {
          "columns":15,
          "firstgid":577,
-         "image":"workadventure-master\/assets\/gbg\/cija_32x32_expansion for Pipoya_CC0.png",
+         "image":"..\/..\/Videos\/clips\/Pictures\/Desktop\/workadventure-master\/assets\/gbg\/cija_32x32_expansion for Pipoya_CC0.png",
          "imageheight":3936,
          "imagewidth":480,
          "margin":0,
@@ -832,7 +832,7 @@
         {
          "columns":24,
          "firstgid":2422,
-         "image":"workadventure-master\/assets\/gbg\/Tafeln.png",
+         "image":"..\/..\/Videos\/clips\/Pictures\/Desktop\/workadventure-master\/assets\/gbg\/Tafeln.png",
          "imageheight":768,
          "imagewidth":768,
          "margin":0,
@@ -845,7 +845,7 @@
         {
          "columns":6,
          "firstgid":2998,
-         "image":"workadventure-master\/assets\/gbg\/roterFaden.png",
+         "image":"..\/..\/Videos\/clips\/Pictures\/Desktop\/workadventure-master\/assets\/gbg\/roterFaden.png",
          "imageheight":192,
          "imagewidth":192,
          "margin":0,
@@ -857,11 +857,11 @@
         }, 
         {
          "firstgid":3034,
-         "source":"walls2.tsx"
+         "source":"..\/..\/Videos\/clips\/Pictures\/Desktop\/walls2.tsx"
         }, 
         {
          "firstgid":3290,
-         "source":"workadventure-master\/tilesets_deviant_milkian_1.tsx"
+         "source":"..\/..\/Videos\/clips\/Pictures\/Desktop\/workadventure-master\/tilesets_deviant_milkian_1.tsx"
         }],
  "tilewidth":32,
  "type":"map",
